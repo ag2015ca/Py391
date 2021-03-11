@@ -1,4 +1,6 @@
 def firstfunction():
     print('hello')
-   
-firstfunction()
+    
+def secondfunction():
+    print('hello second')   
+secondfunction()
